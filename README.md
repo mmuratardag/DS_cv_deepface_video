@@ -20,4 +20,4 @@ The video is processed frame by frame, with each detected face outlined with a g
 
 Exciting to see the parliamentary debate video packed with emotions!
 
-![](emoji.jpg)
+![](deep_face.gif)
