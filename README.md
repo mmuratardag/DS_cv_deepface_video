@@ -6,6 +6,10 @@ The project detects faces, emotions and predicting gender from faces in a video 
 
 The video is processed frame by frame, with each detected face outlined with a green rectangle. The dominant emotion and predicted gender are annotated on the video in lilac text.
 
+<div align="center">
+  <img src="deep_face.gif" width="100%">
+</div>
+
 ## Features
 
 - **Face Detection**: Detects faces in each frame of the video.
@@ -20,4 +24,3 @@ The video is processed frame by frame, with each detected face outlined with a g
 
 Exciting to see the parliamentary debate video packed with emotions!
 
-![](deep_face.gif)
